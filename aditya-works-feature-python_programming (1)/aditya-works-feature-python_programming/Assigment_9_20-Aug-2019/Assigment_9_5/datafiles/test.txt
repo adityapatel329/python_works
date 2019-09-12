@@ -1,0 +1,2 @@
+Hello my name is aditya 
+This is a simple text file

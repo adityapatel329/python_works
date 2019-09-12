@@ -1,0 +1,5 @@
+Hello world
+THis is a python file 
+which has to read it
+mars
+mars
